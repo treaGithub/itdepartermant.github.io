@@ -312,6 +312,21 @@ a:focus {
     margin-bottom: 15px;
     color: rgb(0, 0, 0);
     font-family: ;
+    animation: mymove 5s infinite;
+    position: relative;
+}
+@keyframes mymove {
+    0% {
+        color: rgb(255, 255, 255);
+    }
+
+    50% {
+        color: black;
+    }
+
+    100% {
+        color: rgb(255, 255, 255);
+    }
 }
 
 .hero .hero-text h1 {
