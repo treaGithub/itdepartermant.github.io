@@ -269,7 +269,7 @@ a:focus {
     background-size: cover;
     }
     50%{
-        background: linear-gradient(rgba(16, 115, 115, 0.315), rgba(255, 255, 255, 0.989))
+        background: linear-gradient(rgba(16, 115, 115, 0.315), rgba(255, 255, 255, 0.989));
     }
     50%,100%{
     position: relative;
@@ -317,7 +317,7 @@ a:focus {
 }
 @keyframes mymove {
     0% {
-        color: rgb(255, 255, 255);
+        color: #fff;
     }
 
     50% {
@@ -325,7 +325,7 @@ a:focus {
     }
 
     100% {
-        color: rgb(255, 255, 255);
+        color: #fff;
     }
 }
 
