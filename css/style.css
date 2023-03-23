@@ -903,7 +903,7 @@ a:focus {
 
 .portfolio .portfolio-text h3 {
     width: calc(100% - 70px);
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 600;
     margin: 0 0 0 15px;
     white-space: nowrap;
