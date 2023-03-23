@@ -893,7 +893,7 @@ a:focus {
 .portfolio .portfolio-text {
     position: relative;
     height: 60px;
-    width: calc(100% - 30px);
+    width: calc(65% - 30px);
     margin: -30px 15px 30px 15px;
     display: flex;
     align-items: center;
